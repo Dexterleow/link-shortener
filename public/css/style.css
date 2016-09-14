@@ -1,0 +1,23 @@
+.container {
+  background-color: #8eeef2;
+  height:900px;
+  width:1500px;
+  margin: center;
+  margin: 50px;
+  text-align: center;
+}
+
+#shorten_url {
+width: 500px;
+height: 25px;
+}
+
+#shorten_url_box {
+  border: 1px black solid;
+  height: 50px;
+  width: 500px;
+  margin: center;
+  margin-left: 470px;
+  margin-top: 10px;
+
+}
